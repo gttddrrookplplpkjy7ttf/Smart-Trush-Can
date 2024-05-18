@@ -1,0 +1,1 @@
+A Smart Trash Can is a bin that can automatically open and close. It can separate metal waste from other types of waste and sends a notification to Line Notify on your phone when the bin is full. Additionally, it emits a sound through a buzzer attached to the bin.
