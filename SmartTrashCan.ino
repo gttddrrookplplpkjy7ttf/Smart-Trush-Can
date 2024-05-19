@@ -6,8 +6,8 @@
 Servo servo1;
 Servo servo2;
 
-#define SSID "J"                                                      // Replace with your WiFi SSID
-#define PASSWORD "0986718097"                                         // Replace with your WiFi password
+#define SSID ""                                                      // Replace with your WiFi SSID
+#define PASSWORD ""                                         // Replace with your WiFi password
 #define LINE_TOKEN "TvS2nkdoPMAMBo1UhsnHscQ5Kx19woyyoMU13OP9sG2"      // Replace with your Line Notify token
 #define buzzer 14
 
